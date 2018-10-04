@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t dockerhub.moon.lg.ua:5000/jre8 .
+docker build -t dip56245/java-jre8 .
 
